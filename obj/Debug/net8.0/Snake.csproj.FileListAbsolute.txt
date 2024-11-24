@@ -1,0 +1,4 @@
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\programowanie w grupie programistycznej\Zadania\Zadanie 4 snake\Snake\obj\Debug\net8.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\programowanie w grupie programistycznej\Zadania\Zadanie 4 snake\Snake\obj\Debug\net8.0\Snake.AssemblyInfoInputs.cache
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\programowanie w grupie programistycznej\Zadania\Zadanie 4 snake\Snake\obj\Debug\net8.0\Snake.AssemblyInfo.cs
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\programowanie w grupie programistycznej\Zadania\Zadanie 4 snake\Snake\obj\Debug\net8.0\Snake.csproj.CoreCompileInputs.cache
